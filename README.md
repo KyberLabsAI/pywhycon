@@ -25,6 +25,14 @@ _WhyCon-orig_ is WhyCon's original, minimalistic version that was supposed to be
 * <b>pybind11</b> - only for module building
 * <b>numpy</b>
 
+### Install OpenCV ++
+
+To compile against the C++ code of OpenCV, install the dev package:
+
+```
+sudo apt-get install libopencv-dev
+```
+
 ### <a name="install">Install</a>
 
 You have to install the package from your **active python environment**.
